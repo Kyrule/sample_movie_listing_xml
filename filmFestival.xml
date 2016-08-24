@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="movie.xsl"?>
+
+<filmFestival>
+<siteName>www.movieOfTheCentury.net</siteName>
+
+<disclaimer>some parts may be omitted or edited a litte at the author's own discretion</disclaimer>
+<movie> 
+
+	<title>Inuyasha - Tenka hadou no ken (2003)</title>
+	<prettyPictures>
+		<pic1>./inuyasha/39m.jpg</pic1>
+		<pic2>./inuyasha/48m.jpg</pic2>
+	</prettyPictures>
+
+	<basic_info>
+		<stars>4 out of 5</stars>
+		<director>Toshiya Shinohara</director>
+
+		<writers>
+			<person>Katsuyuki Sumizawa (script); </person> 
+			<person>Rumiko Takahashi; </person>
+		</writers>
+
+		<releaseDate>
+			<year>2003 </year>
+		</releaseDate>
+
+		<genre>
+			<type>Animation; </type> 
+			<type>Fantasy; </type>
+		</genre>
+
+		<plotBrief>The legendary sword, Sou'unga, which belonged to the Great Dog Demon, has been unleashed. It seeks to cover the Earth in an eternal Hell and end all life on it. Inuyasha must join forces with his hateful brother, Sesshoumaru, and put an end to the evil sword that once belonged to their father.  Written by sandyyvette14 </plotBrief>
+		<commentary>good storyline. its fantasy, love and brotherly feud in a package.</commentary>
+		<soundtrack>Four Seasons</soundtrack>
+		
+		<assoc_keywords>anime,fantasy,inuyasha,kagome,sesshoumaru,evil sword, dog demon</assoc_keywords>
+	</basic_info>
+
+	<cast>
+
+		<favouritesOnly>
+			<actor>Moneca Stori as Kagome Higurashi; </actor>
+			<actor>Richard Ian Cox as Inuyasha (voice: English version); </actor>
+		</favouritesOnly>
+
+		<theOthers>
+			<actor>David Kaye as Sesshomaru (English) (voice: English version); </actor>
+			<actor>Houko Kuwashima	as Sango (voice: Japanese version); </actor>
+		</theOthers>
+
+		<extras>
+			<actor>Jillian Michaels as Shippo; </actor>
+			<actor>Yasunori Matsumoto as Setsuna no Takemaru (voice: Japanese version); </actor>
+		</extras>
+
+	</cast>
+
+	<more_info>
+		<location>Japan</location>
+		<ratingCertification>
+			<aus> Australia: M</aus>
+			<sg> Singapore: PG</sg>
+		</ratingCertification>
+
+		<tagline>The Three Swords of the Fang collide in an epic battle!</tagline>
+	
+		<lang>Japanese</lang>
+
+		<coy>Kyoto Animation</coy>
+
+		<info_src>http://www.imdb.com/title/tt0396659/</info_src>
+
+		<runtime>120 minutes</runtime>
+
+	</more_info>
+
+</movie>
+
+
+<movie> <!--	2	-->
+
+        <title>The Count of Monte Cristo (2002)</title>
+        <prettyPictures>
+                <pic1>./monte/handsome.jpg</pic1>
+                <pic2>./monte/loveScene.jpg</pic2>
+        </prettyPictures>
+
+
+        <basic_info>
+                <stars>3 out of 5</stars>
+                <director>Kevin Reynolds</director>
+                <writers>
+			<person>Alexandre Dumas père (novel); </person>
+			<person>Jay Wolpert (screenplay); </person>
+		</writers>
+
+                <releaseDate>
+			<day>25 </day> 
+			<month>January </month>
+			<year>2002 </year>
+			<country>(USA) </country>
+		</releaseDate>
+
+                <genre>
+			<type>Action; </type>
+			<type>Adventure; </type> 
+			<type>Drama; </type>
+		</genre>
+                <plotBrief>When a young man accidentally kills someone, he is plunged into a rich man's world of blackmail, betrayal, adultery and ...murder.</plotBrief>
+                <commentary>just love reading the novel especially the evolving character of edmond dantes</commentary>
+
+                <assoc_keywords>Accidental Killing,Blackmail,Congressman,Murder,Independent Film</assoc_keywords>
+                <soundtrack>unknown</soundtrack>
+        </basic_info>
+
+
+
+
+
+        <cast>
+
+                <favouritesOnly>
+		
+			<actor>James Caviezel as Edmond Dantes (as Jim Caviezel); </actor>
+			<actor>Dagmara Dominczyk as Mercedès Iguanada; </actor>
+
+                </favouritesOnly>
+
+                <theOthers>
+
+                        <actor>Richard Harris as Abbé Faria;</actor>
+                        <actor>Guy Pearce as Fernand Mondego;</actor>
+
+                </theOthers>
+
+                <extras>
+
+                        <actor>James Frain as J.F. Villefort;</actor>
+                        <actor>Aliaz Moufid as Casino Prostitute (as Zhara);</actor>
+			<actor>etc.</actor>
+
+                </extras>
+
+        </cast>
+
+        <more_info>
+                <location> Ardmore Studios - Herbert Road, Bray, County Wicklow, Ireland </location>
+                <ratingCertification>
+                        <usa>USA: PG-13</usa>
+                        <germany>Germany: 12</germany>
+                        <aus>Australia: M</aus>
+                        <sg>Singapore: PG</sg>
+                </ratingCertification>
+
+                <runtime>
+                        <original>88 min</original>
+                        <argentina>90 min</argentina>
+                </runtime>
+                <tagline>Prepare for adventure. Count on revenge.</tagline>
+
+                <lang>English</lang>
+
+                <coy>Spyglass Entertainment</coy>
+
+		 <info_src>http://www.imdb.com/title/tt0245844/</info_src>
+
+        </more_info>
+
+</movie>
+
+
+
+<movie> <!--	3	-->
+
+        <title>Shadow of Fear(2004)</title>
+        <prettyPictures>
+                <pic1>./shadow/24m.jpg</pic1>
+                <pic2>./shadow/10.gif</pic2>
+        </prettyPictures>
+
+
+        <basic_info>
+                <stars>2 out of 5</stars>
+                <director>Rich Cowan</director>
+                <writers>
+			<person>Matthew Hollaway; </person>
+			<person>Arthur Marcum; </person>
+		</writers>
+
+                <releaseDate>
+			<day>14 </day>
+			<month>July </month>
+			<year>2004 </year>
+			<country>(USA) </country>
+		</releaseDate>
+
+                <genre>
+			<type>Thriller; </type>
+
+			<type>Madness; </type>
+		</genre>
+
+                <plotBrief>When a young man accidentally kills someone, he is plunged into a rich man's world of blackmail, betrayal, adultery and ...murder.</plotBrief>
+                <commentary>some great people acting in it but did not turn out to be a good watch.</commentary>
+
+                <assoc_keywords>Accidental Killing,Blackmail,Congressman,Murder,Independent Film</assoc_keywords>
+		<soundtrack>unknown</soundtrack>
+        </basic_info>
+
+        <cast>
+
+                <favouritesOnly>
+                        <actor>James Spader as William Ashbury; </actor> 
+			<actor>Lacey Chabert as Allison Henderson; </actor> 
+			<actor>Sarah Ann Schultz as Genie Bloom; </actor>
+                </favouritesOnly>
+
+                <theOthers>
+                        <actor>Robin Tunney as Wynn French; </actor>
+			<actor>Matthew Davis as Harrison French; </actor>
+                </theOthers>
+
+                <extras>
+                        <actor>John Grant Phillips as Chief Webb; </actor> 
+			<actor>Holly Houston as Marcy Stewart; </actor> 
+			<actor>etc... </actor>
+                </extras>
+
+        </cast>
+        <more_info>
+                <location>Spokane, Washington, USA</location>
+                <ratingCertification>
+                        <usa>USA: PG-13, for brief violence, sexuality and some drug issues; </usa>
+                        <germany>Germany: 12; </germany>
+                        <aus>Australia: M; </aus>
+                        <sg>Singapore: PG </sg>
+                </ratingCertification>
+
+                <runtime>
+                        <original>Original: 88 min<br /></original>
+                        <argentina>Argentina: 90 min</argentina>
+                </runtime>
+		
+		<tagline>Once trapped inside, it's murder to get out.</tagline>
+
+                <lang>English</lang>
+
+                <coy>Two Sticks Productions </coy>
+
+		 <info_src>http://www.imdb.com/title/tt0378306/</info_src>
+
+        </more_info>
+
+</movie>
+
+</filmFestival> 
